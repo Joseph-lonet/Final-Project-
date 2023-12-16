@@ -1,1 +1,1 @@
- Exploring and cleaning dataset related to New Jersey Transit Rail Operations, using pandas for data manipulation. ​
+This project sets the stage for an in-depth analysis of rail equipment accident data for New Jersey Transit Rail Operations. Through meticulous data cleaning and exploration, it aims to provide a robust foundation for subsequent analysis, which could potentially inform safety measures, policy decisions, and preventive strategies in the rail industry. 
