@@ -1,2 +1,1 @@
-# Final-Project-
-New Jersey Transit Accident Report Analysis 
+ Exploring and cleaning dataset related to New Jersey Transit Rail Operations, using pandas for data manipulation. ​
